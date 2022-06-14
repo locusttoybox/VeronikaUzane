@@ -1,0 +1,176 @@
+body {
+  background-color: #FFD9C0;
+  margin: 0;
+  text-align: center;
+  top: 20%;
+}
+
+h1 {
+  line-height: 2;
+  margin: 60px auto 0 auto;
+  font-family: 'DM Serif Text', serif;
+  font-size: 4em;
+  letter-spacing: 4px;
+  color: #00FFAB;
+}
+
+h2 {
+  font-family: 'DM Serif Text', serif;
+  font-size: 2.5rem;
+  letter-spacing: 4px;
+  color: white;
+  margin: 60px 0 30px 0;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: 'DM Serif Text', serif;
+  color: white;
+  margin-bottom: 10px;
+  text-align: left;
+
+}
+
+h4 {
+  font-family: 'Noto Serif', serif;
+  color: #000D6B;
+}
+
+p {
+  font-family: 'Noto Serif', serif;
+  color: #000D6B;
+  text-align: left;
+  margin-top: 10px;
+  line-height: 2;
+}
+
+hr {
+  border: 8px dotted #00FFAB;
+  border-bottom: none;
+  width: 5%;
+  margin: 60px auto;
+}
+
+a {
+  font: 'Noto Serif', serif;
+  color: #000D6B;
+  text-decoration: none;
+  margin: 10px 20px;
+  padding: 10px auto;
+}
+
+a:hover {
+  color: #00FFAB;
+}
+
+.top-container {
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+
+}
+
+.bottom-container {
+  background-color: white;
+  height: 70px;
+  padding: 50px 0 10px 0;
+}
+
+.graphic {
+  text-decoration: underline;
+}
+
+.helicopter-top {
+  position: absolute;
+  top: 35px;
+  right: 400px;
+  width: 80px;
+}
+
+.helicopter-bottom {
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+  width: 80px;
+}
+
+.googles {
+  width: 400px;
+
+}
+
+.fox {
+  width: 250px;
+  height: 250px;
+  border-radius: 250px;
+  margin-top: 50px;
+}
+
+.fins {
+  width: 100px;
+  height: 100px;
+  float: left;
+  margin: 62px 60px 60px 0;
+}
+
+.ice-cream {
+  width: 100px;
+  height: 100px;
+  float: right;
+  margin: 100px 0 30px 10px;
+
+}
+
+.skill-row {
+  line-height: 2;
+  margin: 0 auto;
+  width: 50%;
+}
+
+.top-paragraph {
+  font-family: 'Noto Serif', serif;
+  color: #000D6B;
+  text-align: center;
+}
+
+.penguins-text {
+  font-family: 'Noto Serif', serif;
+  color: #000D6B;
+  text-align: left;
+}
+
+.like-text {
+  clear: left;
+  text-align: left;
+
+}
+
+.outro {
+  width: 35%;
+  text-align: center;
+  margin: auto;
+  padding-bottom: 10px
+  }
+
+
+
+.veronika {
+  color: #000D6B;
+  text-align: center;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+
+
+.penguin {
+  width: 40px;
+  height: 40px;
+  padding: 100px 0 30px 0;
+
+}
+
+.links {
+
+}
